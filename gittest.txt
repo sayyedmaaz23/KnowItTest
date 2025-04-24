@@ -2,6 +2,4 @@ hello this is me testing
 
 hello there this is my feature branch
 
-this is my Feature
-
-I am Kratos and I will have my revenge!
+this is my
